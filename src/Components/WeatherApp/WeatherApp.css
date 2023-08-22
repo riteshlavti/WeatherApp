@@ -85,3 +85,8 @@
 .icon{
     margin-top: 10px;
 }
+
+.image{
+    width: 200px;
+    height: auto;
+}
